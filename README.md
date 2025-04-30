@@ -8,4 +8,4 @@ Social media stuff.
 ./cards/llama.cpp-feature-cache-reuse.sh && open ./cards/output.png
 ```
 
-<img src="https://github.com/user-attachments/assets/9787431f-eac2-4928-85ce-1dd74aacf6c5" width="600" />
+![llama cpp-model-qwen-3](https://github.com/user-attachments/assets/2cd65d50-f43a-4bf3-83fc-c3210c5e0e07)
