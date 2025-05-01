@@ -23,7 +23,7 @@ echo -e "
     ${TC} ${TA}AAACCCCEEGGIII${TC}yyy                              ${CC}
     ${TC}                                                ${CC}
 
-    ${CC}uses: ${CA}partial context updates ${CC}
+    ${CC}uses: ${CA}partial context updates, thinking mode ${CC}
     ${CC}req:  ${CA}RoPE encoding ${CC}
 
 
