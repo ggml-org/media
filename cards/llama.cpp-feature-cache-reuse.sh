@@ -23,14 +23,13 @@ echo -e "
     ${TC} ${TA}AAACCCCEEGGIII${TC}yyy                              ${CC}
     ${TC}                                                ${CC}
 
-    ${CC}uses: ${CA}partial context updates, thinking mode ${CC}
     ${CC}req:  ${CA}RoPE encoding ${CC}
+    ${CC}uses: ${CA}Partial context updates, Thinking mode ${CC}
 
 
     ${TC}                                                ${CC}
     ${TC} > llama-server ${TA}--cache-reuse 256 ${TC}[...]         ${CC}
-    ${TC}                                                ${CC}
-" > card.txt
+    ${TC}                                                ${CC}" > card.txt
 
 cat card.txt
 
