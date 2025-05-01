@@ -4,6 +4,8 @@ cd "$(dirname "$0")"
 
 source common.sh
 
+    #${CC}${CL}https://github.com/ggml-org/llama.cpp/pull/9866 ${CC}
+
 echo -e "
  ${CC}   ${CT}llama.cpp                                 feature   
 
@@ -24,7 +26,6 @@ echo -e "
     ${CC}uses: ${CA}partial context updates ${CC}
     ${CC}req:  ${CA}RoPE encoding ${CC}
 
-    ${CC}${CL}https://github.com/ggml-org/llama.cpp/pull/9866 ${CC}
 
     ${TC}                                                ${CC}
     ${TC} > llama-server ${TA}--cache-reuse 256 ${TC}[...]         ${CC}
